@@ -18,3 +18,5 @@ This work contributes toward building a more trustworthy digital ecosystem by ad
 
 Code: Deepfake_Detection_Code
 Data Folder: Dataset
+
+Deployment: https://huggingface.co/spaces/Maddy2911/deepfake-detector
